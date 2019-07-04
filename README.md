@@ -5,3 +5,6 @@
  helpfull for finding the response times in case of latency of cloud apps/urls
 
  ./bin java TimerTest 
+
+
+
